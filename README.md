@@ -3,6 +3,8 @@
 ## Project Title: My Personal Portfolio Website
 ## Technologies Used: HTML5, CSS3, Vercel
 ## Date Completed: 21st November 2025
+##### deployment link : https://myportfolio1-ruby.vercel.app/
+##### pitchdeck link  :
  ### 1. Project Overview
 
 This project involved designing, developing, and deploying a fully responsive personal portfolio website using only HTML and CSS, without any external libraries. The website highlights my skills, professional experience, academic qualifications, and geospatial engineering projects.
